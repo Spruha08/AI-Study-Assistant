@@ -1,0 +1,13 @@
+# API keys and secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# App-generated storage
+uploads/
+chroma_db/
